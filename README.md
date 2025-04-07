@@ -1,2 +1,3 @@
 # Practico_git
-Esta es la linea inicial cambiada en linea main.
+Esta es la línea modificada de la rama1
+
